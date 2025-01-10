@@ -275,7 +275,7 @@ blockquote{
   margin-bottom: 24px;
   border: none;
   border-radius: 24px;
-  padding: 56px 0 56px 48px;
+  padding: 48px;
 }
 .news-photo{
   border-radius: 24px;
@@ -458,6 +458,7 @@ footer{
 }
 hr{
   margin: 32px 239px;
+  width: auto;
 }
 
 
