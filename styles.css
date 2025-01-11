@@ -14,7 +14,7 @@
 header{
   display: flex;
   justify-content: space-between;
-  margin: 31px 160px;
+  margin: 31px auto;
   background-color: #F1F1F3;
 }
 .header-title{
@@ -43,10 +43,10 @@ header{
 /* main styles */
 body{
   background-color: #F1F1F3;
+  width: 1280px;
+  margin: 0 auto;
 }
-main{
-  margin: 0 160px;
-}
+
 /* banner styles */
 .banner{
   background-color: rgba(198, 228, 214, 1);
